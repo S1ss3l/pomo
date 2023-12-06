@@ -1,5 +1,5 @@
 # pomo
-Stupid simpe pomodoro timer
+Stupid simple pomodoro timer
 # Installation
 Download or copy the sh script
 Alias it or put it into your path
